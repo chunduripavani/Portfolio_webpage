@@ -8,3 +8,5 @@ http://127.0.0.1:5500/html/index.html
 
 ![filetype-html](https://github.com/chunduripavani/Portfolio_webpage/assets/102505634/ca6997a5-86e9-40fe-80c3-cc3dd4c36fc5)
 
+![laptop1](https://github.com/chunduripavani/Portfolio_webpage/assets/102505634/9e62e844-52ba-4b49-944d-28a4964b84bd)
+
