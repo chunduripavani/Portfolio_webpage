@@ -10,3 +10,6 @@ http://127.0.0.1:5500/html/index.html
 
 ![laptop1](https://github.com/chunduripavani/Portfolio_webpage/assets/102505634/9e62e844-52ba-4b49-944d-28a4964b84bd)
 
+![laptop2](https://github.com/chunduripavani/Portfolio_webpage/assets/102505634/34243254-2619-4563-a75c-43888aa7ee8c)
+
+
